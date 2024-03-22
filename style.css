@@ -36,6 +36,13 @@ body {
     color: var(--verde);
 }
 
+.imgcenter{ display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
 .botao {
     font-family: "Crakra Petch", sans-serif;
     background-color: var(--botao-inativo);
